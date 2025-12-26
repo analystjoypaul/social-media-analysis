@@ -16,7 +16,7 @@ The `socialmediadb` database is defined in `Table Creation.sql` and includes the
 
 The schema includes foreign key constraints to maintain referential integrity and sample data for 100 users, 257 photos, 21 tags, and associated relationships.
 
-![Customer Distribution](https://github.com/BijoyBytes/Social-Media-Data-Analysis-using-SQL/blob/main/Analysis%20picture.png) 
+![Banner](https://github.com/analystjoypaul/social-media-analysis/blob/main/banner.png) 
 
 
 ## Research Questions and Queries
