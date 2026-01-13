@@ -19,7 +19,7 @@ The schema includes foreign key constraints to maintain referential integrity an
 ![Banner](https://github.com/analystjoypaul/social-media-analysis/blob/main/banner.png) 
 
 ## Project Structure
-[Table Relation](https://github.com/analystjoypaul/social-media-analysis/blob/main/Table%20Relationship.png)
+![Table Relation](https://github.com/analystjoypaul/social-media-analysis/blob/main/Table%20Relationship.png)
 
 ## Research Questions and Queries
 The `Research Question.sql` file contains queries to answer the following:
